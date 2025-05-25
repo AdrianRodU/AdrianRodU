@@ -56,6 +56,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,100:8b5cf6&height=100&section=footer&text=Gracias%20por%20visitar!%20🚀&fontSize=30&fontAlignY=70" alt="footer" />
-</p>
+❤️ **Adrián R.**
+
+---
