@@ -77,7 +77,9 @@ I'm Yassen, a Front-End Developer with a creative edge, blending engineering wit
       Gracias por llegar hasta aquí — ¡Crea, imagina y nunca dejes de aprender!
     </text>
     <p align="center">
-  <em>Minimalismo, color y código convergen en mi universo.</em>
+  <em> Minimalismo, color y código convergen en mi universo.</em>
 </p>
-  </svg>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:f43f5e&height=100&section=header" alt="header" />
+</p>
 </p>
