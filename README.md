@@ -73,66 +73,81 @@ I'm **Yassen**, a **Front-End Developer** with a creative edge, blending enginee
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassenshopov)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yassenshopov)
 
-# 👋 ¡Hola! Soy AdrianRodU
+###
 
-Bienvenido/a a mi espacio en GitHub. Soy **Adrián Rodríguez**, un apasionado **diseñador frontend** enfocado en crear experiencias digitales **intuitivas, accesibles y visualmente impactantes**. Aquí verás un poco de mi universo creativo, donde el código y el diseño se encuentran para dar vida a proyectos únicos.  
+<!-- Encabezado SVG animado: ondas de colores -->
+<p align="center">
+  <svg width="100%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+        <stop offset="45%" style="stop-color:#8b5cf6;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#f43f5e;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path d="M0,60 Q250,120 500,60 T1000,60 V120 H0 Z" fill="url(#grad1)">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="
+          M0,60 Q250,120 500,60 T1000,60 V120 H0 Z;
+          M0,80 Q250,30 500,90 T1000,80 V120 H0 Z;
+          M0,60 Q250,120 500,60 T1000,60 V120 H0 Z
+        " />
+    </path>
+  </svg>
+</p>
 
----
+<h1 align="center" style="color:#8b5cf6; font-size:3em; letter-spacing:2px; font-family:monospace;">
+  ¡Hola, soy <span style="color:#06b6d4;">AdrianRodU</span>!
+</h1>
 
-## 🎨 Sobre mí
-
-- 🚀 **Front-end lover**: HTML5, CSS3, JavaScript (ES6+), React, Tailwind, SASS, Figma.
-- ✨ Apasionado por la **UI/UX**, los detalles y la animación web.
-- 🧠 Siempre aprendiendo lo último en diseño y desarrollo.
-- 🤝 Amante del trabajo en equipo y la colaboración creativa.
-
----
-
-## 💡 Mi filosofía
-
-> “El diseño no es solo cómo se ve, sino cómo funciona.”  
-> <sub>– Steve Jobs</sub>
-
-Creo en el poder de los pequeños detalles, los micro-interacciones y el storytelling visual para crear interfaces memorables.
-
----
-
-## 🚧 Proyectos Destacados
-
-| Proyecto                 | Descripción                                                                 | Tecnologías        | Demo                 |
-|--------------------------|-----------------------------------------------------------------------------|--------------------|----------------------|
-| **Portafolio Interactivo** | Mi portafolio personal: animaciones, dark mode, responsive y más.           | React, GSAP, SASS  | [Ver](#)             |
-| **UI Kits Modernos**       | Componentes UI listos para usar, inspirados en tendencias actuales.         | Figma, CSS, JS     | [Ver](#)             |
-| **App de Tareas Minimal**  | App simple y elegante para gestión de tareas, enfoque en UX.                | Vue, Tailwind      | [Ver](#)             |
-
----
-
-## 🛠️ Habilidades
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=222)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=fff)
+<p align="center">
+  <b>
+    Diseñador Frontend | UI/UX | Apasionado por los efectos visuales llamativos
+  </b>
+</p>
 
 ---
 
-## 🌈 ¿Colaboramos?
-
-Siempre estoy abierto a nuevas oportunidades, retos y colaboraciones creativas.  
-¿Tienes una idea genial? ¡Hablemos!
-
-- 📫 [adrianrod@example.com](mailto:adrianrod@example.com)
-- 🌍 [adrianrodu.com](https://adrianrodu.com)  
-- 🐦 [@adrianrodu](https://twitter.com/adrianrodu)
+<p align="center" style="font-size:1.15em">
+  <em>¡Me encanta crear interfaces web <b>creativas</b>, <span style="color:#f43f5e;">animadas</span> y <span style="color:#06b6d4;">elegantes</span>!<br/>
+  Si puedes soñarlo, puedo diseñarlo y desarrollarlo en código.</em>
+</p>
 
 ---
 
-<div align="center">
+## 🚀 Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,vue,figma,github" height="42"/>
+</p>
+
+---
+
+## 🎨 Un toque de creatividad
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Interfaces+que+inspiran;Animaciones+que+enamoran;Diseño+con+propósito;Let's+create+magic!"/>
+</p>
+
+---
+
+## 🌈 ¿Listo/a para colaborar?
+
+<p align="center">
+  <b>Conectemos y creemos algo espectacular juntos.</b><br/><br/>
+  <a href="mailto:adrianrod@example.com">
+    <img src="https://img.shields.io/badge/Email-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://adrianrodu.com">
+    <img src="https://img.shields.io/badge/Web-8b5cf6?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/adrianrodu">
+    <img src="https://img.shields.io/badge/Twitter-f43f5e?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
   <img src="https://media.giphy.com/media/IeRdg7f3n5JK6/giphy.gif" width="300" alt="Frontend Designer" />
-  <br/>
-  <strong>¡Gracias por visitar mi perfil! 🚀</strong>
-</div>
+</p>
