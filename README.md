@@ -9,10 +9,10 @@
 </p>
 
 ---
-<p align="center">
-  <b>Creativo frontend que transforma ideas en experiencias digitales WOW.</b>
-</p>
+
 ## Soy...
+
+Creativo frontend que transforma ideas en experiencias digitales WOW.
 
 - 🚀 Apasionado del diseño web, la interacción y el buen gusto visual.
 - 🌱 Siempre aprendiendo formas de hacer que el `HTML5`, `CSS3` y `JS` sean inolvidables.
