@@ -70,16 +70,8 @@ I'm Yassen, a Front-End Developer with a creative edge, blending engineering wit
 
 ---
 
-<!-- Cierre creativo SVG -->
-<p align="center" style="margin-bottom:-30px;">
-
-    <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-size="1.45em" font-family="Fira Code, monospace" fill="#fff" opacity="0.87">
-      Gracias por llegar hasta aquí — ¡Crea, imagina y nunca dejes de aprender!
-    </text>
-    <p align="center">
-  <em> Minimalismo, color y código convergen en mi universo.</em>
-</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:f43f5e&height=100&section=header" alt="header" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,100:8b5cf6&height=80&section=footer" alt="footer" />
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,100:8b5cf6&height=80&section=footer" alt="footer" />
 </p>
