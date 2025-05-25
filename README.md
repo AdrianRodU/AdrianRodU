@@ -72,3 +72,67 @@ I'm **Yassen**, a **Front-End Developer** with a creative edge, blending enginee
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassenshopov00@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassenshopov)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yassenshopov)
+
+# 👋 ¡Hola! Soy AdrianRodU
+
+Bienvenido/a a mi espacio en GitHub. Soy **Adrián Rodríguez**, un apasionado **diseñador frontend** enfocado en crear experiencias digitales **intuitivas, accesibles y visualmente impactantes**. Aquí verás un poco de mi universo creativo, donde el código y el diseño se encuentran para dar vida a proyectos únicos.  
+
+---
+
+## 🎨 Sobre mí
+
+- 🚀 **Front-end lover**: HTML5, CSS3, JavaScript (ES6+), React, Tailwind, SASS, Figma.
+- ✨ Apasionado por la **UI/UX**, los detalles y la animación web.
+- 🧠 Siempre aprendiendo lo último en diseño y desarrollo.
+- 🤝 Amante del trabajo en equipo y la colaboración creativa.
+
+---
+
+## 💡 Mi filosofía
+
+> “El diseño no es solo cómo se ve, sino cómo funciona.”  
+> <sub>– Steve Jobs</sub>
+
+Creo en el poder de los pequeños detalles, los micro-interacciones y el storytelling visual para crear interfaces memorables.
+
+---
+
+## 🚧 Proyectos Destacados
+
+| Proyecto                 | Descripción                                                                 | Tecnologías        | Demo                 |
+|--------------------------|-----------------------------------------------------------------------------|--------------------|----------------------|
+| **Portafolio Interactivo** | Mi portafolio personal: animaciones, dark mode, responsive y más.           | React, GSAP, SASS  | [Ver](#)             |
+| **UI Kits Modernos**       | Componentes UI listos para usar, inspirados en tendencias actuales.         | Figma, CSS, JS     | [Ver](#)             |
+| **App de Tareas Minimal**  | App simple y elegante para gestión de tareas, enfoque en UX.                | Vue, Tailwind      | [Ver](#)             |
+
+---
+
+## 🛠️ Habilidades
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=222)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=fff)
+
+---
+
+## 🌈 ¿Colaboramos?
+
+Siempre estoy abierto a nuevas oportunidades, retos y colaboraciones creativas.  
+¿Tienes una idea genial? ¡Hablemos!
+
+- 📫 [adrianrod@example.com](mailto:adrianrod@example.com)
+- 🌍 [adrianrodu.com](https://adrianrodu.com)  
+- 🐦 [@adrianrodu](https://twitter.com/adrianrodu)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/IeRdg7f3n5JK6/giphy.gif" width="300" alt="Frontend Designer" />
+  <br/>
+  <strong>¡Gracias por visitar mi perfil! 🚀</strong>
+</div>
