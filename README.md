@@ -1,45 +1,31 @@
-<!-- Encabezado SVG animado: ondas de colores -->
-<p align="center">
-  <svg width="100%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
-        <stop offset="45%" style="stop-color:#8b5cf6;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#f43f5e;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path d="M0,60 Q250,120 500,60 T1000,60 V120 H0 Z" fill="url(#grad1)">
-      <animate attributeName="d" dur="6s" repeatCount="indefinite"
-        values="
-          M0,60 Q250,120 500,60 T1000,60 V120 H0 Z;
-          M0,80 Q250,30 500,90 T1000,80 V120 H0 Z;
-          M0,60 Q250,120 500,60 T1000,60 V120 H0 Z
-        " />
-    </path>
-  </svg>
-</p>
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:f43f5e&height=150&section=header&text=Adri%C3%A1n%20R.&fontSize=48&fontAlignY=38" alt="Adrián R. header" />
+</p> -->
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#8b5cf6;">Adrián R.</span></h1>
 
 <p align="center">
-  <b>Creativo frontend que transforma ideas en experiencias digitales WOW.</b>
+  <em>Minimalismo, color y código convergen en mi universo.</em>
 </p>
 
 ---
-
-I'm Yassen, a Front-End Developer with a creative edge, blending engineering with design to build intuitive, user-friendly web applications.
+<p align="center">
+  <b>Creativo frontend que transforma ideas en experiencias digitales WOW.</b>
+</p>
+## Soy...
 
 - 🚀 Apasionado del diseño web, la interacción y el buen gusto visual.
-- 🌱 Siempre aprendiendo formas de hacer que el HTML5, CSS3 y JS sean inolvidables.
+- 🌱 Siempre aprendiendo formas de hacer que el `HTML5`, `CSS3` y `JS` sean inolvidables.
 - 🧠 Notion lover: organización y creatividad, siempre.
-- 👀 Busco colaborar en proyectos con alma y buen diseño.
-- 🎨 Inspirado por el arte, la música y la cultura pop.
+  - Plantillas para redes sociales (RRSS)
+  - Finanzas (personales y en parejas)
+- 🎨 Siempre imaginando y creando cosas.
 
 ---
 
-### 🛠️ Mi stack favorito
+### 🛠️ Mis stacks favoritos
 
-<p align="center">
+<p>
   <img width="38" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img width="38" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img width="38" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -51,7 +37,7 @@ I'm Yassen, a Front-End Developer with a creative edge, blending engineering wit
 ### 🧬 Mis stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianRodU&count_private=true&show_icons=true&theme=github_dark" alt="GitHub stats" height="155"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AdrianRodU&count_private=true&show_icons=true&theme=github_dark" alt="GitHub stats" height="155"/>-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianRodU&layout=compact&theme=github_dark" alt="Top Languages" height="155"/>
 </p>
 
@@ -71,7 +57,5 @@ I'm Yassen, a Front-End Developer with a creative edge, blending engineering wit
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,100:8b5cf6&height=80&section=footer" alt="footer" />
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,100:8b5cf6&height=80&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,100:8b5cf6&height=100&section=footer&text=Gracias%20por%20visitar!%20🚀&fontSize=30&fontAlignY=70" alt="footer" />
 </p>
