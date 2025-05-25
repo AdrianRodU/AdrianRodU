@@ -43,19 +43,19 @@ I'm **Yassen**, a **Front-End Developer** with a creative edge, blending enginee
   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="left" style="margin-right: 10px; width: 2rem !important; background: #fff !important; border-radius: 50% !important;" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Notion" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>
+<!--     <img align="left" style="padding-right: 10px; width: 2rem !important" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> -->
+<!--     <img align="left" style="margin-right: 10px; width: 2rem !important; background: #fff !important; border-radius: 50% !important;" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> -->
 <!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> -->
 <!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="LESS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/> -->
-  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="TailWindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
-  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<!--     <img align="left" style="padding-right: 10px; width: 2rem !important" alt="TailWindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> -->
+<!--   <!--     <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> -->
+<!--     <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/> -->
+<!--     <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> -->
 <!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> -->
 <!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> -->
 <!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> -->
-  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Notion" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>
+<!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>-->
 </div>
 <br/>
 
@@ -69,9 +69,9 @@ I'm **Yassen**, a **Front-End Developer** with a creative edge, blending enginee
 
 ### 📬️ Let's connect:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassenshopov00@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassenshopov)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yassenshopov)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhollowmanl@gmail.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianrodu) -->
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adrianrodu) -->
 
 ###
 
@@ -94,60 +94,4 @@ I'm **Yassen**, a **Front-End Developer** with a creative edge, blending enginee
         " />
     </path>
   </svg>
-</p>
-
-<h1 align="center" style="color:#8b5cf6; font-size:3em; letter-spacing:2px; font-family:monospace;">
-  ¡Hola, soy <span style="color:#06b6d4;">AdrianRodU</span>!
-</h1>
-
-<p align="center">
-  <b>
-    Diseñador Frontend | UI/UX | Apasionado por los efectos visuales llamativos
-  </b>
-</p>
-
----
-
-<p align="center" style="font-size:1.15em">
-  <em>¡Me encanta crear interfaces web <b>creativas</b>, <span style="color:#f43f5e;">animadas</span> y <span style="color:#06b6d4;">elegantes</span>!<br/>
-  Si puedes soñarlo, puedo diseñarlo y desarrollarlo en código.</em>
-</p>
-
----
-
-## 🚀 Tecnologías y herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,vue,figma,github" height="42"/>
-</p>
-
----
-
-## 🎨 Un toque de creatividad
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Interfaces+que+inspiran;Animaciones+que+enamoran;Diseño+con+propósito;Let's+create+magic!"/>
-</p>
-
----
-
-## 🌈 ¿Listo/a para colaborar?
-
-<p align="center">
-  <b>Conectemos y creemos algo espectacular juntos.</b><br/><br/>
-  <a href="mailto:adrianrod@example.com">
-    <img src="https://img.shields.io/badge/Email-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://adrianrodu.com">
-    <img src="https://img.shields.io/badge/Web-8b5cf6?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/adrianrodu">
-    <img src="https://img.shields.io/badge/Twitter-f43f5e?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7f3n5JK6/giphy.gif" width="300" alt="Frontend Designer" />
 </p>
