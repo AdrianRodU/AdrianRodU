@@ -14,7 +14,7 @@
 
 Creativo frontend 
 
-- 🚀 Apasionado del diseño web, la interacción y el buen gusto visual.
+- 🚀 Apasionado del diseño web, la interacción y el buen gusto visual. `UX y UI`
 - 🌱 Siempre aprendiendo formas de hacer que el `HTML5`, `CSS3` y `JS` sean inolvidables.
 - 🧠 Notion lover: organización y creatividad, siempre.
   - Plantillas para redes sociales (RRSS)
